@@ -130,11 +130,17 @@ st.markdown("---")
 st.markdown("---")
 
 st.markdown("## Convert your EKOT to Game Night GOLD")
+st.markdown("# Or put your EKOT towards family Votes")
 st.markdown("1 EKOT = 10 GOLD")
+st.markdown("5 EKOT = 1 Vote")
 
-name = st.selectbox("Select Campaign/Game", ("StarFinder", "Rise of the Runelords", "Monopoly"))
+
+#select reason for conversion and number of EKTO to be Used
+
+name = st.selectbox("Select Campaign/Game or Vote", ("StarFinder", "Rise of the Runelords", "Monopoly", "Vote"))
 EKOT_amount = st.slider("Enter the amount of EKOT you wish to Convert to Game Currency", min_value=1, max_value=100,  value=50)
 
+#confirm correct player selected with Checkbox
 confirm_correct_player = st.write("Confirm that EKTO is to be removed/converted from: ", address2,"'s Account")
 agree = st.checkbox('Confirm')
 
