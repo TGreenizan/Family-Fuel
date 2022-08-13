@@ -130,7 +130,7 @@ st.markdown("---")
 st.markdown("---")
 
 st.markdown("## Convert your EKOT to Game Night GOLD")
-st.markdown("# Or put your EKOT towards family Votes")
+st.markdown("## Or put your EKOT towards family Votes")
 st.markdown("1 EKOT = 10 GOLD")
 st.markdown("5 EKOT = 1 Vote")
 
