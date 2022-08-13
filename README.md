@@ -1,7 +1,11 @@
-## Family-Fuel
+<p align="center"> 
+  ## Family-Fuel </p>
+<p align="center">
 -- Fueling Responsible Money Management Through Crypto and Gaming --
-
-![image](https://github.com/TGreenizan/Family-Fuel/blob/main/Logo-Family-Fuel.png =168x209)
+</p>
+  
+<p align="center">
+<img width="168" height="209" src="https://github.com/TGreenizan/Family-Fuel/blob/main/Logo-Family-Fuel.png"> </p>
 
 This is currently a Fun Project/proof of concept. using the EKTO token as an allowance for helping around the house. the below code when run through streamlit will take me to the Front end. this interface is designed to Mint new tokens as a result of a completed task.  textbox included to capture task that resulted in reward. this is currently saved to a .CSV dataframe. I can then reference this when completing the transaction on the contract.  intention long term is to integrate front end to smart contract completely as a completed proof of concept. Phase 2 is intended to expand on what and where the EKTO token can be used.
 
