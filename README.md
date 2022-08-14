@@ -1,7 +1,7 @@
 <p align="center"> 
-  ## Family-Fuel </p>
+Family Fuel</p>
 <p align="center">
--- Fueling Responsible Money Management Through Crypto and Gaming --
+-- Fueling Responsible Money Management Through Crypto, blockchain and Gaming --
 </p>
   
 <p align="center">
